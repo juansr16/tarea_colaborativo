@@ -1,3 +1,4 @@
 Este archivo será utilizado para emular modificaciones en el proyecto colaborativo
 
 Juan Serrano
+Luis Enrique Sanchez
